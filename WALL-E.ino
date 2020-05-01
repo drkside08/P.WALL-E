@@ -1,6 +1,6 @@
 
 void setup() {
- //hjcjgcjg
+ /// aquivan las variables
 
 }
 
